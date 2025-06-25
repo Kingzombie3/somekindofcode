@@ -9,7 +9,6 @@ public class PlayerController : MonoBehaviour
     [SerializeField] GameObject freeCam;
     [SerializeField] AudioClip[] noms;
     [SerializeField] AudioClip win;
-    //[SerializeField] GameObject groundCheck;
 
     public float size = 1;
     public float velocity = 2.5f;
